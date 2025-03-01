@@ -1,6 +1,7 @@
 theme: minima
-title: Il mio Blog
-description: Benvenuto nel mio blog con Jekyll su GitHub Pages!
+title: AVMPro.it Blog
+description: Scopri le ultime novità tecnologiche e guide su AVMPro.it
+permalink: /:year/:month/:title/
 collections:
   posts:
     output: true
