@@ -1,8 +1,6 @@
 ---
-
-title: Benvenuti su AVMPro.it
+layout: home
+title: Benvenuto!
 ---
+Questo è il mio primo blog con Jekyll su GitHub Pages!
 
-# Benvenuti nel blog di AVMPro.it!
-
-Qui troverete tutte le novità, gli approfondimenti e le guide dedicate ai prodotti e servizi offerti sul nostro sito.
